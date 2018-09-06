@@ -1,7 +1,11 @@
 # ExMethodFactory
 An example of Method Factory using JAVA.
 
-It's recommended use Eclipse IDE<br>
+*
+* author: Hudson Machado
+*
+
+It's recommended the use of Eclipse IDE<br>
 Project created using <b>Eclipse Photon</b>
 
 <b>java -version</b><br>
